@@ -1,0 +1,12 @@
+- este archivo es para mergear
+- lalala
+- linea 3
+<<<<<<< HEAD
+- linea 4
+- linea 5 conflicto
+=======
+- linea 4 conflicto
+- linea 5 de origen
+>>>>>>> 190e32effa13a436e303963cc5b54b802bcbe3d6
+- te voy a mergear
+- una linea nueva
