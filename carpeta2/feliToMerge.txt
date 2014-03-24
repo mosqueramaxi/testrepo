@@ -1,6 +1,7 @@
 - este archivo es para mergear
 - lalala
 - linea 3
-- linea 4 conflicto
+- linea 4
+- linea 5 conflicto
 - te voy a mergear
 - una linea nueva
